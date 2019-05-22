@@ -1,0 +1,15 @@
+C:\Users\fpri018\source\repos\lerPDF\lerPDF\bin\Debug\lerPDF.exe.config
+C:\Users\fpri018\source\repos\lerPDF\lerPDF\bin\Debug\lerPDF.exe
+C:\Users\fpri018\source\repos\lerPDF\lerPDF\bin\Debug\lerPDF.pdb
+C:\Users\fpri018\source\repos\lerPDF\lerPDF\bin\Debug\itextsharp.dll
+C:\Users\fpri018\source\repos\lerPDF\lerPDF\bin\Debug\itextsharp.xml
+C:\Users\fpri018\source\repos\lerPDF\lerPDF\obj\Debug\lerPDF.csprojAssemblyReference.cache
+C:\Users\fpri018\source\repos\lerPDF\lerPDF\obj\Debug\lerPDF.Form1.resources
+C:\Users\fpri018\source\repos\lerPDF\lerPDF\obj\Debug\lerPDF.Properties.Resources.resources
+C:\Users\fpri018\source\repos\lerPDF\lerPDF\obj\Debug\lerPDF.csproj.GenerateResource.cache
+C:\Users\fpri018\source\repos\lerPDF\lerPDF\obj\Debug\lerPDF.csproj.CoreCompileInputs.cache
+C:\Users\fpri018\source\repos\lerPDF\lerPDF\obj\Debug\lerPDF.csproj.CopyComplete
+C:\Users\fpri018\source\repos\lerPDF\lerPDF\obj\Debug\lerPDF.exe
+C:\Users\fpri018\source\repos\lerPDF\lerPDF\obj\Debug\lerPDF.pdb
+C:\Users\fpri018\source\repos\lerPDF\lerPDF\bin\Debug\System.ValueTuple.dll
+C:\Users\fpri018\source\repos\lerPDF\lerPDF\bin\Debug\System.ValueTuple.xml
